@@ -4,7 +4,7 @@ This github is for the community to interact with the ChaseApp development and o
 
 # Bugs and Issue Reporting
 
-Please use the Github Issues tracker to submit public bug reports if you find an issue with the public interfaces (mobile, web), all API issues should be reported internally unless you are unable to do so.
+Please use the Github Issues tracker to submit public bug reports if you find an issue with the public interfaces (mobile, web). All API issues should be reported internally unless you are unable to do so.
 
 # Ideas for new Features
 
